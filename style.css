@@ -1,0 +1,22 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://obmontessori.edu.ph/sta-ana-campus/wp-content/uploads/2px);
+}
+h3 {
+  color: rgb(11, 85, 160);
+  margin-left: 20px;
+}
+
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.info {
+  border-color: #2196F3;
+  color: dodgerblue;
+}
